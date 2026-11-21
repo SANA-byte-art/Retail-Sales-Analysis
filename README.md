@@ -4,7 +4,7 @@ An interactive Microsoft Excel dashboard built to explore retail sales performan
 
 ## Dashboard Preview
 
-![Retail Sales Dashboard](Retail_Sales_Dashboard.png)
+![Retail Sales Dashboard](Retail_Sales_Dashboard1.png)
 
 ## Project Overview
 
