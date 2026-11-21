@@ -56,7 +56,7 @@ The slicers update the PivotCharts connected to them. The **Sales Trend Over Tim
 | File | Description |
 |---|---|
 | `Sales2_Final.xlsx` | Excel workbook containing the source data, PivotTables, and dashboard |
-| `Retail_Sales_Dashboard.png` | Full dashboard screenshot |
+| `Retail_Sales_Dashboard1.png` | Full dashboard screenshot |
 
 ## Data Notes and Limitations
 
